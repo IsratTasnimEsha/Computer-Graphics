@@ -1,0 +1,26 @@
+﻿  main.cpp
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\sphere.h(233,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\sphere.h(234,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\sphere.h(236,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\sphere.h(269,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\sphere.h(325,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\sphere.h(326,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\sphere.h(330,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\Cone2.h(72,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\Cone2.h(83,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\cylinder.h(68,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\cylinder.h(97,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\cylinder.h(153,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\cylinder.h(156,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(658,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(1286,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(1294,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(1298,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(1299,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(1809,74): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(1810,76): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(1811,77): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(1812,76): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(1813,78): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(1814,77): warning C4305: '-=': truncation from 'double' to 'float'
+  Lighting.vcxproj -> C:\Users\ACER\Downloads\OpenGL 3.3 - Lighting (Part1+2+3)\OpenGL 3.3 - Lighting (Part1+2+3)\x64\Debug\Lighting.exe
